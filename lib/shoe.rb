@@ -10,8 +10,8 @@ class Shoe
     @title
   end
   
-  def author=(author)
-    @author = author
+  def color=(author)
+    @author = color
   end
   
   def author
