@@ -42,4 +42,4 @@ class Shoe
   end
   
 end
-Shoe.new("Your shoe is as good as new!")
+
