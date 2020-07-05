@@ -43,5 +43,4 @@ class Shoe
   end
   
 end
-shoe.new
 
