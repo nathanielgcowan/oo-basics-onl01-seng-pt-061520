@@ -30,4 +30,17 @@ class Shoe
     @material
   end
   
+  def condition=(condition)
+    @condition = condition
+  end
+  def condition
+    @condition
+  end
+  def cobble=(cobble)
+    @cobble = cobble
+  end
+  def cobble
+    @cobble
+  end
+  
 end
